@@ -42,8 +42,8 @@ const Landing = () => {
   //Content
 
         const emailAddress = "sample@gmail.com";
-        const navName = "rehhhhhh";
-        const about1FullParagraph = "Hi I am Mohan, As a $photographer I am dedicated to transforming ordinary moments into extraordinary memories.";
+        const navName = "Jayanth Photography";
+        const about1FullParagraph = "Hi I am jayanth, As a $photographer I am dedicated to transforming ordinary moments into extraordinary memories.";
         const about2HeadingFullText = "My Lens, Your $Story";
         const about2Paragraph = "With a passion for capturing fleeting moments and transforming them into lasting memories, I embark on a visual journey, guided by the light and emotions that surround me. My photography transcends mere images, weaving together narratives that resonate with viewers on a deeper level. Whether it's the raw energy of a live performance, the quiet intimacy of a wedding, or the timeless beauty of a landscape, I strive to create images that reflect the essence of the subject and evoke a sense of connection.";  
         const about3Paragraph = "If you are looking to discuss a project or just talk photography";
