@@ -6,10 +6,18 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+src
+.eslintrc.cjs
+README.md
+index.html 
+netlify.toml 
+package.json 
+package-lock.json 
+postcss.config.js 
+tailwind.config.js 
+vite.config.js 
 
 node_modules
-dist
-dist-ssr
 *.local
 
 # Editor directories and files
